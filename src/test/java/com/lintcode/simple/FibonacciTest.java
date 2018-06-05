@@ -4,6 +4,13 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.io.SyncFailedException;
+import java.util.Date;
+import java.text.SimpleDateFormat;
+import org.w3c.dom.Document;
+
+import java.io.InputStream;
+
 /**
  * Created by eligshn on 2017/6/14.
  */
